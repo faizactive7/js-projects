@@ -1,2 +1,2 @@
 # js-projects
-code repo for js projects
+code repo for js  basics , projects
