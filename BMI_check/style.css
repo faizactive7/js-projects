@@ -1,0 +1,57 @@
+*{
+    font-family: 'Kode Mono';
+}
+html{
+    margin: 0;
+}
+.container{
+    width: 575px;
+    height: 825px;
+    background-color: rgb(0, 60, 255);
+    padding-left: 30px;
+    border-radius: 12px;
+    align-items: center;
+    
+}
+
+.text{
+    font-size: 20px;
+    font-weight: 600;
+}
+#height, #weight {
+    width: 150;
+    height: 25px;
+    margin-top: 30px;
+}
+
+#weight-guide{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+#results{
+    font-size: 18px;
+    margin-left: 90px;
+    margin-top: 20px;
+    color: #ffff;
+}
+button{
+    width: 150px;
+    text-align: center;
+    height: 35px;
+    margin-top: 25px;
+    margin-left:90px;
+    background-color: beige;
+    padding: 1px 30px auto 30px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+    border: solid 2px #212121;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h1{
+    padding-left: 15px;
+    padding-top: 25px;
+}
