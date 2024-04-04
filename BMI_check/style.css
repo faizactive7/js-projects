@@ -5,13 +5,15 @@ html{
     margin: 0;
 }
 .container{
-    width: 575px;
-    height: 825px;
+    width: 544px;
+    height: 672px;
+    margin: 45px auto;
     background-color: rgb(0, 60, 255);
-    padding-left: 30px;
+    padding-left: 25px;
+    display: grid;
     border-radius: 12px;
-    align-items: center;
-    
+    align-items: center; 
+    justify-content: space-around;
 }
 
 .text{
@@ -25,7 +27,7 @@ html{
 }
 
 #weight-guide{
-    margin: 20px;
+    margin: 11px;
     font-size: 20px;
     font-weight: 600;
 }
